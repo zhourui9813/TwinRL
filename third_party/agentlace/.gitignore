@@ -1,0 +1,10 @@
+*.egg-info
+build
+__pycache__
+*.py[cod]
+*.so
+*.pyc
+wandb/
+logs/
+.vscode/
+

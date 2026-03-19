@@ -3,10 +3,11 @@
 # TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.09023-b31b1b.svg)](https://arxiv.org/abs/2602.09023)
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://sites.google.com/view/twinrl/twinrl)
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://twinrl.github.io/)
+[![Twin Assets & Dataset](https://img.shields.io/badge/Twin%20Assets%20%26%20Dataset-Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1f58K3IYd3RjkA-oTWW17bSZk4EM06JCV?usp=sharing)
 
 <p>
-  <a href="https://github.com/zhourui9813/Twin-RL">Qinwen Xu</a><sup>1,*</sup>&nbsp;&nbsp;
+  <a href="https://github.com/zhourui9813/TwinRL">Qinwen Xu</a><sup>1,*</sup>&nbsp;&nbsp;
   <a href="https://liujiaming1996.github.io/">Jiaming Liu</a><sup>1,*,†</sup>&nbsp;&nbsp;
   <a href="https://zhourui9813.github.io/">Rui Zhou</a><sup>4,*</sup>&nbsp;&nbsp;
   <a href="https://github.com/Daniel-Shii">Shaojun Shi</a><sup>1,*</sup>&nbsp;&nbsp;

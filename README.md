@@ -36,9 +36,15 @@
 
 ---
 
+
 Twin-RL is a digital twin-real-world collaborative RL framework designed to scale and guide exploration for VLA models.
 
 ![Twin-RL](./assets/media/teaser.png)
+
+## 📰 News
+
+- `2026-07`: 🎉🎉🎉 TwinRL-VLA is accepted to **ACM MM 2026**!
+- `2026-03`: 🤗 We released the [digital twin assets & twin-generated datasets](https://drive.google.com/drive/folders/1f58K3IYd3RjkA-oTWW17bSZk4EM06JCV?usp=sharing) and the offline training code.
 
 ## 📋 Table of Contents
 
